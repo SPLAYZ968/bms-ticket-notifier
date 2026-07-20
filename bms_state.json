@@ -6,7 +6,7 @@
       "date": "20260730",
       "cat": "Premium+3D",
       "price": "230.00",
-      "status": "2"
+      "status": "1"
     },
     "RAKK|2031|20260730|Elite+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
@@ -22,7 +22,7 @@
       "date": "20260730",
       "cat": "Premium+3D",
       "price": "230.00",
-      "status": "3"
+      "status": "0"
     },
     "RAKK|2032|20260730|Elite+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
@@ -38,7 +38,7 @@
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "250.98",
-      "status": "2"
+      "status": "1"
     },
     "MMPR|1405|20260730|3D BUDGET": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -46,7 +46,7 @@
       "date": "20260730",
       "cat": "3D BUDGET",
       "price": "101.74",
-      "status": "3"
+      "status": "2"
     },
     "MMPR|1407|20260730|3D EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -54,7 +54,7 @@
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "250.98",
-      "status": "2"
+      "status": "1"
     },
     "MMPR|1407|20260730|3D BUDGET": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
