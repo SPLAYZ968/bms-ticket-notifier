@@ -1,5 +1,37 @@
 {
   "shows": {
+    "RAKK|2031|20260730|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:20 PM",
+      "date": "20260730",
+      "cat": "Premium+3D",
+      "price": "230.00",
+      "status": "2"
+    },
+    "RAKK|2031|20260730|Elite+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:20 PM",
+      "date": "20260730",
+      "cat": "Elite+3D",
+      "price": "230.00",
+      "status": "3"
+    },
+    "RAKK|2032|20260730|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "Premium+3D",
+      "price": "230.00",
+      "status": "3"
+    },
+    "RAKK|2032|20260730|Elite+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "Elite+3D",
+      "price": "230.00",
+      "status": "3"
+    },
     "MMPR|1405|20260730|3D EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
       "time": "10:30 AM",
