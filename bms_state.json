@@ -6,7 +6,7 @@
       "date": "20260730",
       "cat": "Premium+3D",
       "price": "230.00",
-      "status": "3"
+      "status": "0"
     },
     "RAKK|2205|20260730|Elite+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
@@ -48,13 +48,93 @@
       "price": "230.00",
       "status": "2"
     },
+    "MAYJ|235235|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "10:00 AM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235361|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "10:15 AM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235236|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "01:05 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235362|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "01:20 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235237|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "04:10 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235363|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "04:25 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235238|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "07:15 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235364|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "07:30 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235365|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
+    "MAYJ|235239|20260730|FIRST CLASS 3D": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:00 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS 3D",
+      "price": "246.40",
+      "status": "3"
+    },
     "MMPR|1405|20260730|3D EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
       "time": "10:30 AM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "250.98",
-      "status": "1"
+      "status": "0"
     },
     "MMPR|1405|20260730|3D BUDGET": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -62,7 +142,7 @@
       "date": "20260730",
       "cat": "3D BUDGET",
       "price": "101.74",
-      "status": "1"
+      "status": "0"
     },
     "MMPR|1407|20260730|3D EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -78,7 +158,7 @@
       "date": "20260730",
       "cat": "3D BUDGET",
       "price": "101.74",
-      "status": "2"
+      "status": "1"
     },
     "MMPR|1409|20260730|3D EXECUTIVE": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -95,46 +175,6 @@
       "cat": "3D BUDGET",
       "price": "101.74",
       "status": "2"
-    },
-    "MAYJ|235235|20260730|FIRST CLASS 3D": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "10:00 AM",
-      "date": "20260730",
-      "cat": "FIRST CLASS 3D",
-      "price": "246.40",
-      "status": "3"
-    },
-    "MAYJ|235236|20260730|FIRST CLASS 3D": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "01:05 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS 3D",
-      "price": "246.40",
-      "status": "3"
-    },
-    "MAYJ|235237|20260730|FIRST CLASS 3D": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "04:10 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS 3D",
-      "price": "246.40",
-      "status": "3"
-    },
-    "MAYJ|235238|20260730|FIRST CLASS 3D": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "07:15 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS 3D",
-      "price": "246.40",
-      "status": "3"
-    },
-    "MAYJ|235239|20260730|FIRST CLASS 3D": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:00 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS 3D",
-      "price": "246.40",
-      "status": "3"
     }
   },
   "dates": {
