@@ -30,7 +30,7 @@
       "date": "20260730",
       "cat": "Elite+3D",
       "price": "230.00",
-      "status": "2"
+      "status": "1"
     },
     "RAKK|2032|20260730|Premium+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
@@ -48,13 +48,45 @@
       "price": "230.00",
       "status": "2"
     },
+    "TVHP|24030|20260730|ELITE+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "03:45 PM",
+      "date": "20260730",
+      "cat": "ELITE+3D",
+      "price": "241.44",
+      "status": "3"
+    },
+    "TVHP|24030|20260730|BUDGET+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "03:45 PM",
+      "date": "20260730",
+      "cat": "BUDGET+3D",
+      "price": "96.30",
+      "status": "3"
+    },
+    "TVHP|24032|20260730|ELITE+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "10:15 PM",
+      "date": "20260730",
+      "cat": "ELITE+3D",
+      "price": "241.44",
+      "status": "3"
+    },
+    "TVHP|24032|20260730|BUDGET+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "10:15 PM",
+      "date": "20260730",
+      "cat": "BUDGET+3D",
+      "price": "96.30",
+      "status": "3"
+    },
     "MAYJ|235235|20260730|FIRST CLASS 3D": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "10:00 AM",
       "date": "20260730",
       "cat": "FIRST CLASS 3D",
       "price": "246.40",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235361|20260730|FIRST CLASS 3D": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -102,7 +134,7 @@
       "date": "20260730",
       "cat": "FIRST CLASS 3D",
       "price": "246.40",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235364|20260730|FIRST CLASS 3D": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
