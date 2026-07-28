@@ -38,7 +38,7 @@
       "date": "20260730",
       "cat": "ELITE+3D",
       "price": "241.44",
-      "status": "2"
+      "status": "1"
     },
     "TVHP|24079|20260730|BUDGET+3D": {
       "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
@@ -350,7 +350,7 @@
       "date": "20260730",
       "cat": "FIRST CLASS 3D",
       "price": "246.40",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235365|20260730|FIRST CLASS 3D": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -383,6 +383,198 @@
       "cat": "FIRST CLASS 3D",
       "price": "246.40",
       "status": "2"
+    },
+    "ACTN|44536|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "01:00 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "ACTN|44536|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "01:00 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "ACTN|44537|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "03:55 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "ACTN|44537|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "03:55 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "ACTN|44684|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:25 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "ACTN|44684|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:25 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "ACTN|44538|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "07:00 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "ACTN|44538|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "07:00 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "ACTN|44539|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:50 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "ACTN|44539|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:50 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|54875|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "12:55 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|54875|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "12:55 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|55051|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "01:20 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|55051|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "01:20 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|54876|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "03:50 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|54876|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "03:50 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|55050|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "04:10 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|55050|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "04:10 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|54877|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "06:55 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|54877|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "06:55 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|55059|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "07:55 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|55059|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "07:55 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
+    },
+    "AGSM|54878|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "DIAMOND 3D",
+      "price": "240.00",
+      "status": "1"
+    },
+    "AGSM|54878|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "PEARL 3D",
+      "price": "90.00",
+      "status": "0"
     },
     "ACVM|54569|20260730|DIAMOND 3D": {
       "venue": "AGS Cinemas: Villivakkam",
@@ -464,117 +656,101 @@
       "price": "90.00",
       "status": "0"
     },
-    "AGSM|54875|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "12:55 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "1"
-    },
-    "AGSM|54875|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "12:55 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "AGSM|55051|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "01:20 PM",
+    "ACON|46213|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "01:15 PM",
       "date": "20260730",
       "cat": "DIAMOND 3D",
       "price": "240.00",
       "status": "2"
     },
-    "AGSM|55051|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "01:20 PM",
+    "ACON|46213|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "01:15 PM",
       "date": "20260730",
       "cat": "PEARL 3D",
       "price": "90.00",
       "status": "0"
     },
-    "AGSM|54876|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "03:50 PM",
+    "ACON|46366|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "04:15 PM",
       "date": "20260730",
       "cat": "DIAMOND 3D",
       "price": "240.00",
       "status": "2"
     },
-    "AGSM|54876|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "03:50 PM",
+    "ACON|46366|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "04:15 PM",
       "date": "20260730",
       "cat": "PEARL 3D",
       "price": "90.00",
       "status": "0"
     },
-    "AGSM|55050|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "04:10 PM",
+    "ACON|46350|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "04:40 PM",
       "date": "20260730",
       "cat": "DIAMOND 3D",
       "price": "240.00",
       "status": "2"
     },
-    "AGSM|55050|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "04:10 PM",
+    "ACON|46350|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "04:40 PM",
       "date": "20260730",
       "cat": "PEARL 3D",
       "price": "90.00",
       "status": "0"
     },
-    "AGSM|54877|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "06:55 PM",
+    "ACON|46214|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:45 PM",
       "date": "20260730",
       "cat": "DIAMOND 3D",
       "price": "240.00",
       "status": "1"
     },
-    "AGSM|54877|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "06:55 PM",
+    "ACON|46214|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:45 PM",
       "date": "20260730",
       "cat": "PEARL 3D",
       "price": "90.00",
       "status": "0"
     },
-    "AGSM|55059|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "07:55 PM",
+    "ACON|46351|20260730|DIAMOND 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "11:10 PM",
       "date": "20260730",
       "cat": "DIAMOND 3D",
       "price": "240.00",
       "status": "1"
     },
-    "AGSM|55059|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "07:55 PM",
+    "ACON|46351|20260730|PEARL 3D": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "11:10 PM",
       "date": "20260730",
       "cat": "PEARL 3D",
       "price": "90.00",
       "status": "0"
     },
-    "AGSM|54878|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "10:00 PM",
+    "SBTR|11820|20260730|Elite + 3D": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "09:00 AM",
       "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
+      "cat": "Elite + 3D",
+      "price": "160.00",
       "status": "1"
     },
-    "AGSM|54878|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: Maduravoyal",
-      "time": "10:00 PM",
+    "SBTR|11820|20260730|PLATINUM 3D": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "09:00 AM",
       "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
+      "cat": "PLATINUM 3D",
+      "price": "160.00",
+      "status": "3"
     },
     "PVHR|39786|20260730|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -606,7 +782,7 @@
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "96.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39787|20260730|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -704,173 +880,13 @@
       "price": "96.74",
       "status": "2"
     },
-    "ACTN|44536|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "01:00 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "1"
-    },
-    "ACTN|44536|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "01:00 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACTN|44537|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "03:55 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "2"
-    },
-    "ACTN|44537|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "03:55 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACTN|44684|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:25 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "2"
-    },
-    "ACTN|44684|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:25 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACTN|44538|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "07:00 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "1"
-    },
-    "ACTN|44538|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "07:00 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACTN|44539|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "09:50 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "1"
-    },
-    "ACTN|44539|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "09:50 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACON|46213|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "01:15 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "2"
-    },
-    "ACON|46213|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "01:15 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACON|46366|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "04:15 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "3"
-    },
-    "ACON|46366|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "04:15 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACON|46350|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "04:40 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "2"
-    },
-    "ACON|46350|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "04:40 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACON|46214|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "07:45 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "1"
-    },
-    "ACON|46214|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "07:45 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
-    "ACON|46351|20260730|DIAMOND 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "11:10 PM",
-      "date": "20260730",
-      "cat": "DIAMOND 3D",
-      "price": "240.00",
-      "status": "1"
-    },
-    "ACON|46351|20260730|PEARL 3D": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "11:10 PM",
-      "date": "20260730",
-      "cat": "PEARL 3D",
-      "price": "90.00",
-      "status": "0"
-    },
     "PGRA|21381|20260730|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "10:10 AM",
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PGRA|21381|20260730|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -928,6 +944,14 @@
       "price": "96.74",
       "status": "0"
     },
+    "LKOP|11737|20260730|FIRST CLASS+3D": {
+      "venue": "Lathaa Cinemas A/C Atmos 2K 3D: Chengalpattu",
+      "time": "02:45 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS+3D",
+      "price": "160.00",
+      "status": "3"
+    },
     "PGMV|20955|20260730|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "03:30 PM",
@@ -976,22 +1000,6 @@
       "price": "96.74",
       "status": "0"
     },
-    "SBTR|11820|20260730|Elite + 3D": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "09:00 AM",
-      "date": "20260730",
-      "cat": "Elite + 3D",
-      "price": "160.00",
-      "status": "2"
-    },
-    "SBTR|11820|20260730|PLATINUM 3D": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "09:00 AM",
-      "date": "20260730",
-      "cat": "PLATINUM 3D",
-      "price": "160.00",
-      "status": "3"
-    },
     "PABC|20490|20260730|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
       "time": "01:20 PM",
@@ -1038,7 +1046,7 @@
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "101.74",
-      "status": "0"
+      "status": "1"
     },
     "PBRM|23581|20260730|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -1070,7 +1078,7 @@
       "date": "20260730",
       "cat": "BUDGET",
       "price": "96.74",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|23583|20260730|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -1088,57 +1096,17 @@
       "price": "96.74",
       "status": "1"
     },
-    "LKOP|11737|20260730|FIRST CLASS+3D": {
-      "venue": "Lathaa Cinemas A/C Atmos 2K 3D: Chengalpattu",
-      "time": "02:45 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS+3D",
-      "price": "160.00",
-      "status": "3"
-    },
-    "PVHC|30490|20260730|PRIME": {
+    "PVHC|30534|20260730|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:40 PM",
+      "time": "01:10 PM",
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "0"
+      "status": "2"
     },
-    "PVHC|30490|20260730|CLASSIC": {
+    "PVHC|30534|20260730|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:40 PM",
-      "date": "20260730",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PVHC|30491|20260730|PRIME": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "07:05 PM",
-      "date": "20260730",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PVHC|30491|20260730|CLASSIC": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "07:05 PM",
-      "date": "20260730",
-      "cat": "CLASSIC",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PVHC|30492|20260730|PRIME": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "PRIME",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PVHC|30492|20260730|CLASSIC": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "10:30 PM",
+      "time": "01:10 PM",
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "96.74",
@@ -1264,6 +1232,86 @@
       "price": "96.74",
       "status": "0"
     },
+    "MCSK|14899|20260730|3D SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "10:35 AM",
+      "date": "20260730",
+      "cat": "3D SPECIAL",
+      "price": "101.74",
+      "status": "0"
+    },
+    "MCSK|14899|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "10:35 AM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "250.98",
+      "status": "3"
+    },
+    "MCSK|14895|20260730|3D SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "01:35 PM",
+      "date": "20260730",
+      "cat": "3D SPECIAL",
+      "price": "101.74",
+      "status": "0"
+    },
+    "MCSK|14895|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "01:35 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "250.98",
+      "status": "3"
+    },
+    "MCSK|14898|20260730|3D SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "04:30 PM",
+      "date": "20260730",
+      "cat": "3D SPECIAL",
+      "price": "101.74",
+      "status": "0"
+    },
+    "MCSK|14898|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "04:30 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "250.98",
+      "status": "3"
+    },
+    "MCSK|14897|20260730|3D SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "07:35 PM",
+      "date": "20260730",
+      "cat": "3D SPECIAL",
+      "price": "101.74",
+      "status": "0"
+    },
+    "MCSK|14897|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "07:35 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "250.98",
+      "status": "3"
+    },
+    "MCSK|14896|20260730|3D SPECIAL": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "3D SPECIAL",
+      "price": "101.74",
+      "status": "0"
+    },
+    "MCSK|14896|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Sekaran Mall, Perrumbakkam",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "250.98",
+      "status": "3"
+    },
     "MLMT|7584|20260730|PREMIUM 3D": {
       "venue": "Marvel Movie Max 4K Laser Dolby Atmos: Tiruvallur",
       "time": "02:00 PM",
@@ -1286,6 +1334,86 @@
       "date": "20260730",
       "cat": "SILVER 3D",
       "price": "160.00",
+      "status": "3"
+    },
+    "PCAN|42273|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "12:30 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PCAN|42273|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "12:30 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PCAN|42274|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "03:40 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PCAN|42274|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "03:40 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PCAN|42272|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:30 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "0"
+    },
+    "PCAN|42272|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:30 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "1"
+    },
+    "PCAN|42275|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:50 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PCAN|42275|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:50 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PCAN|42276|20260730|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PCAN|42276|20260730|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "CLASSIC",
+      "price": "96.74",
       "status": "3"
     }
   },
