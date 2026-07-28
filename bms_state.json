@@ -1,5 +1,69 @@
 {
   "shows": {
+    "TVHP|24081|20260730|ELITE+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "12:40 PM",
+      "date": "20260730",
+      "cat": "ELITE+3D",
+      "price": "241.44",
+      "status": "3"
+    },
+    "TVHP|24081|20260730|BUDGET+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "12:40 PM",
+      "date": "20260730",
+      "cat": "BUDGET+3D",
+      "price": "96.30",
+      "status": "3"
+    },
+    "TVHP|24030|20260730|ELITE+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "03:45 PM",
+      "date": "20260730",
+      "cat": "ELITE+3D",
+      "price": "241.44",
+      "status": "2"
+    },
+    "TVHP|24030|20260730|BUDGET+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "03:45 PM",
+      "date": "20260730",
+      "cat": "BUDGET+3D",
+      "price": "96.30",
+      "status": "3"
+    },
+    "TVHP|24079|20260730|ELITE+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "08:00 PM",
+      "date": "20260730",
+      "cat": "ELITE+3D",
+      "price": "241.44",
+      "status": "2"
+    },
+    "TVHP|24079|20260730|BUDGET+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "08:00 PM",
+      "date": "20260730",
+      "cat": "BUDGET+3D",
+      "price": "96.30",
+      "status": "3"
+    },
+    "TVHP|24032|20260730|ELITE+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "10:15 PM",
+      "date": "20260730",
+      "cat": "ELITE+3D",
+      "price": "241.44",
+      "status": "1"
+    },
+    "TVHP|24032|20260730|BUDGET+3D": {
+      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
+      "time": "10:15 PM",
+      "date": "20260730",
+      "cat": "BUDGET+3D",
+      "price": "96.30",
+      "status": "3"
+    },
     "RAKK|2205|20260730|Premium+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
       "time": "09:00 AM",
@@ -30,7 +94,7 @@
       "date": "20260730",
       "cat": "Elite+3D",
       "price": "230.00",
-      "status": "3"
+      "status": "2"
     },
     "RAKK|2031|20260730|Premium+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
@@ -80,38 +144,6 @@
       "price": "230.00",
       "status": "2"
     },
-    "TVHP|24030|20260730|ELITE+3D": {
-      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
-      "time": "03:45 PM",
-      "date": "20260730",
-      "cat": "ELITE+3D",
-      "price": "241.44",
-      "status": "2"
-    },
-    "TVHP|24030|20260730|BUDGET+3D": {
-      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
-      "time": "03:45 PM",
-      "date": "20260730",
-      "cat": "BUDGET+3D",
-      "price": "96.30",
-      "status": "3"
-    },
-    "TVHP|24032|20260730|ELITE+3D": {
-      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
-      "time": "10:15 PM",
-      "date": "20260730",
-      "cat": "ELITE+3D",
-      "price": "241.44",
-      "status": "1"
-    },
-    "TVHP|24032|20260730|BUDGET+3D": {
-      "venue": "The Vijay Park Multiplex: Injambakkam ECR 4K Atmos",
-      "time": "10:15 PM",
-      "date": "20260730",
-      "cat": "BUDGET+3D",
-      "price": "96.30",
-      "status": "3"
-    },
     "CBMC|10094|20260730|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
       "time": "01:30 PM",
@@ -126,7 +158,7 @@
       "date": "20260730",
       "cat": "EXECUTIVE",
       "price": "250.98",
-      "status": "1"
+      "status": "0"
     },
     "CBMC|10100|20260730|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -142,7 +174,7 @@
       "date": "20260730",
       "cat": "EXECUTIVE",
       "price": "250.98",
-      "status": "1"
+      "status": "0"
     },
     "CBMC|10101|20260730|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -262,7 +294,7 @@
       "date": "20260730",
       "cat": "FIRST CLASS 3D",
       "price": "246.40",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235509|20260730|FIRST CLASS 3D": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -358,7 +390,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39791|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -422,7 +454,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39793|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -430,7 +462,7 @@
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "96.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39789|20260730|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -438,7 +470,7 @@
       "date": "20260730",
       "cat": "PRIME",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39789|20260730|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -598,7 +630,7 @@
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "101.74",
-      "status": "1"
+      "status": "0"
     },
     "PABC|20492|20260730|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -638,7 +670,7 @@
       "date": "20260730",
       "cat": "ELITE",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|23581|20260730|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -654,7 +686,7 @@
       "date": "20260730",
       "cat": "ELITE",
       "price": "245.98",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|23582|20260730|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -678,7 +710,7 @@
       "date": "20260730",
       "cat": "BUDGET",
       "price": "96.74",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|30490|20260730|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -750,7 +782,7 @@
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "250.98",
-      "status": "1"
+      "status": "0"
     },
     "MMPR|1407|20260730|3D BUDGET": {
       "venue": "MovieMax: PR Mall, Wall Tax Road, Chennai",
@@ -790,7 +822,7 @@
       "date": "20260730",
       "cat": "ELITE 3D",
       "price": "241.46",
-      "status": "3"
+      "status": "2"
     },
     "VVGT|29962|20260730|ELITE 3D": {
       "venue": "Vels Theatres: Chennai",
@@ -846,8 +878,8 @@
     "20260731": "AVAILABLE",
     "20260801": "AVAILABLE",
     "20260802": "AVAILABLE",
-    "20260803": "NOT_OPEN",
-    "20260804": "NOT_OPEN",
-    "20260805": "NOT_OPEN"
+    "20260803": "AVAILABLE",
+    "20260804": "AVAILABLE",
+    "20260805": "AVAILABLE"
   }
 }
